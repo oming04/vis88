@@ -97,7 +97,7 @@ async def start_command(client: Client, message: Message):
                 InlineKeyboardButton(text="• DAFTAR & RAIH BONUS •", url=f"https://visa88online.org"),
            	],
 		[
-                InlineKeyboardButton(text="• CHANNEL CWE" MULUS •", url=f"https://t.me/visabet88"),
+                InlineKeyboardButton(text="• CHANNEL CWE-CWE MULUS •", url=f"https://t.me/visabet88"),
            	]
             ]
         )
@@ -127,7 +127,7 @@ async def not_joined(client: Client, message: Message):
                 InlineKeyboardButton(text="• DAFTAR & RAIH BONUS •", url=f"https://visa88online.org"),
            	],
 		[
-                InlineKeyboardButton(text="• CHANNEL CWE" MULUS •", url=f"https://t.me/visabet88"),
+                InlineKeyboardButton(text="• CHANNEL CWE-CWE MULUS •", url=f"https://t.me/visabet88"),
            	]
     ]
     try:
